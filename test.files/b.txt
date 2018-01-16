@@ -1,0 +1,618 @@
+
+
+  17-12-02
+  ========
+
+- thriving ﬁeld ：欣欣向荣的领域 
+- automate routine labor：使日常劳动自动化
+- diagnoses：诊断
+- intellectually diﬃcult:在智力上困难
+- relatively straight-forward： 相对简单的 
+- in terms of:就...而言，以...方式
+- relatively sterile:相对无菌
+- rigidly circumscribed ways:受到严格限制的方法
+- devise:制定
+- tremendous accomplishment:巨大的成就
+- Ironically: 具有讽刺意味的是 
+- immense amount:巨大的数量
+- articulate:表达
+- hard-code knowledge: 硬编码的知识 
+- logical inference rules:逻辑推理规则
+- unwieldy process:笨重的过程
+- inconsistency:前后矛盾
+- raw data:原始数据
+
+
+  17-12-03
+  ========
+
+- tackle problems:解决问题
+- cesarean delivery:剖腹产
+- legitimate:合法
+- arithmetic:算术
+- Arabic numerals:阿拉伯数字
+- Cartesian coordinates:笛卡尔坐标
+- vocal tract:声道
+- clue:线索
+- quintessential:典型
+- autoencoder:自动编码器
+- factors of variation:变异因素
+- rich variability:丰富的可变性
+- disentangle:解开
+- discard:丢弃
+- sophisticated:复杂
+- at ﬁrst glance:乍一看
+- multilayer perceptron:多层感知器
+- contours:轮廓
+- consensus:共识
+- viable:可行
+- contend:抗衡
+- disciplines:学科
+- schematic:概要;纲要的
+- speculative ideas:值得思考的点
+- introductory:入门的
+- rebranded:更名
+- adaptive linear element:自适应线性元素
+- diminished role of :逐渐减弱的角色
+- fragmented:支离破碎
+- incorporate:包含
+- rigid guide:严格的指导
+- primarily:主要地
+- symbolic reasoning.:符号推理
+- interdisciplinary:跨学科
+- back-propagation:反向传播
+- has waxed and waned in popularity:...的普及率下降了
+- breakthrough:突破
+- identical:相同
+- undergone:经历
+- curate:策划
+- a rough rule of thumb:粗略的经验法则
+- In retrospect:回想起来
+- crop:裁剪
+- meteoric rise:急速上升
+- a wide margin:大幅上涨
+- a ranked list :排行榜
+- stagnate:停滞
+- pedestrian detection:行人检测
+-  on the cusp of :在风口浪尖之上
+- arbitrary content:任意的内容
+- crowning achievement:最高成就
+- reinforcement learning:强化学习
+- autonomous:自主性
+- infrastructure:基础设施
+
+
+  17-12-04
+  ========
+
+- identity matrix:单位矩阵
+-  is analogous to:是类似的
+- mutually:相互
+- Eigendecomposition:特征值分解
+
+
+  17-12-05
+  ========
+
+- integrate:整合
+- WIP(working in process):流水线
+- reciprocal
+- transpose:颠倒
+- lossy compression:有损压缩
+- monotonically:单调
+- derive the algorithm:导出算法
+
+
+  17-12-06
+  ========
+
+====================
+
+
+  17-12-07
+  ========
+
+- shuffle:洗牌
+- axioms:公理
+- various expressions:多个表达式
+- primarily:主要地
+- limited exposure to:对...认知有限
+- flawlessly:完美无瑕
+- stochastic:随机
+- reason:解释
+- postulate:假定
+- Incomplete observability:不完整的可观察性
+- brittle:易脆的
+-  diagnose:诊断
+- Probability Mass Functions:概率质量函数
+- disambiguate:消除歧义
+- explicitly:明确地
+- enumerate:枚举
+- central peak:中央高峰
+- coordinate:坐标
+- standard deviation:标准方差
+- sensible:明智的
+- Normal distributions:正态分布
+- ^out of sth:在...之中
+- univariate :单变量
+
+
+  17-12-08
+  ========
+
+- a bundle of :一捆
+- Japanese Embassy:日本大使馆
+- non-exceptional :非例外
+- spoof:欺骗
+
+
+  17-12-09
+  ========
+
+- in the sense:在这个意义上
+- identity matrix:单位矩阵
+- proportionate:均衡
+- coordinate system:坐标系
+- spherical:球形
+- saturates:饱和
+- sketch:草图,简述
+- paradoxes:悖论
+- negligibly:可忽略不计的
+- invertible:可逆
+- violate:违反
+- unlikely event:不可能事件 
+- natural logarithm:自然对数
+- consequences:后果
+- omitted:省略的
+- multiply:乘
+- factorization:因式分解
+- merely:仅仅
+- mutually exclusive:相互排斥
+
+
+  17-12-12
+  ========
+
+- disregards:无视
+- analytically:解析地
+- symbolic expression:象征性的表达
+- equations:方程
+- incur:招致
+- rounding error:舍入错误
+- problematic:成问题的，有疑问的，不确定的
+- arithmetic:算术
+- denominator:分母
+- negative:消极,负的
+- subtracting:减去
+- Likewise:同样
+- rules out:排除
+- erroneously:错误地,不正确地
+- numerator:分子
+- explicitly:明确地
+- For the most part:多半，就绝大部分而言;大多;大半
+- with respect to :关于
+- matrix inversion:矩阵求逆
+- perturb:使（某人）烦恼，不安
+- criterion:标准,准则
+- derivative:衍生物
+- critical points:临界点
+- stationary:静止的点
+- Saddle point:鞍点
+- optimal:最佳
+- formal sense:形式意义
+- partial derivatives:偏导数
+- evaluates to:计算的结果是
+- converges:收敛,回合
+- curvature:曲率
+- quadratic function:二次方程
+- postal:邮政
+- Leased Housing:租赁房屋
+- Novice:初学者
+- hyperparameters:超参数
+- emphasis:重视
+
+
+  17-12-13
+  ========
+
+- conﬁdence intervals:置信区间
+- succinct:简介
+- entails:意味着
+- invasive:侵略性的
+- marginalize:边缘化
+- deep probabilistic model:深度概率模型
+
+
+  17-12-14
+  ========
+
+- expected claim amount:预期索赔额
+- security:证券
+- unstructured representation:非结构化表示
+- optical character recognition:光学字符识别
+- optial:光钎,光学的.
+- broad category:广义范畴
+- subsumes:涵盖
+- Anomaly detection:异常检测
+- sift through:筛选,仔细检查
+- sift:筛出
+- fraud detection:欺诈识别
+- misuse:滥用
+- uncharacteristic:异常
+- audio waveform:音频波形
+- explicitly:明确地
+- imputation:归罪;诋毁;负责;非难;归咎于
+- Density estimation:密度估计
+- rigid taxonomy:严格的分类
+- performance metric:性能指标
+- straightforward:直截了当
+- objective:客观的
+- performance measure:性能指标
+- impractical:不切实际的
+- criterion:标准
+- Roughly speaking:大致来说
+- ostensibly:表面上地
+
+
+  17-12-17
+  ========
+
+- heterogeneous:各种各样的;成分混杂的;异构的
+- rigid taxonomy:严格的分类
+- normal equations:正规方程
+- a slightly more sophisticated model:一个稍微复杂的模型
+- an affine function:仿射函数
+- subsequent sections:随后的章节
+- identically distributed:分布相同
+- representational capacity of the model:模型表征能力
+- refinements:改进
+- invoke:调用,呼吁
+- discrepancy:差异
+
+
+  17-12-18
+  ========
+
+- asymptotes:渐进
+
+
+  17-12-19
+  ========
+
+- utilization:利用
+- common sense knowledge:常识
+- extensible:扩展的
+- multiple rounds of conversation:多伦回话
+- shed light on:为...提供线索
+- drawbacks:缺点
+- time consuming:费时的
+- penalty:罚款
+- incorporate into:进入
+- scheme:方案
+- two-folds:双重的
+- stimulus:刺激物
+- Neutral:中性
+- conjecture:推测	
+- dominated:占主导地位
+- momentum: 势头;动力;[物]动量;要素，契机 
+- coherence:一致性
+- discriminate:辨析
+- scalable:可扩展性的
+- marital:婚姻
+- Perplexity:困惑
+
+
+  17-12-20
+  ========
+
+- asymptote:渐进
+- conﬁdence interval:置信区间
+- contradict:ding
+- Inductive reasoning：归纳推理
+- inferring general rules：推断一般规则
+- are aligned with：与...一致
+- concretely:具体的
+- nonlinear fashion：非线性方式
+- tradeoff:（公平）交易，折衷，权衡
+- weight decay：权值衰减
+- sth over  ...space :在...空间上的sth
+- rivaled：相媲美
+- disjoint:不相交的
+- stale:陈旧
+
+
+  17-12-22
+  ========
+
+- inference improvements:推理的改进
+- production-ready framework:可生产的框架(理解为可再训练,再定制)
+- incorporate:合并
+- energize:激励
+- moving beyond :超越
+- shared evaluation tasks :共享评价任务
+- subtle:微妙的
+- carry over from:从...集成
+- hyper-parameter tuning:超参数调整
+- effective heuristics:有效的启发式算法
+- entails:意味着
+- de-facto:实际的
+- burden:负担
+- paramount:最重要的
+- constitute:构成
+- dispense: 免除
+- transduction: 转导;换能，转换，变频 
+- Numerous:众多
+- sequential nature:顺序性
+- preclude:妨碍
+- factorization tricks:分解技巧
+- factorization:因数分解
+- conditional computation:有条件的计算
+- regard to:关于,至于
+- without regard to:不遵守,不考虑
+- an integral part:一个组成部分
+
+
+  17-12-25
+  ========
+
+- albeit:尽管
+- counteract:抵消
+- reduced effective resolution :降低有效分辨率
+- entailment:蕴含,含义
+- overall architecture:整体架构
+- identical:相同的
+- offset:抵消
+- mimics:模仿
+- extrapolate:推断
+
+
+  17-12-26
+  ========
+
+- desirable:可取的;令人满意的;值得拥有的;性感的
+- in the sense that:在某种意义上说
+- standard deviation:标准偏差
+- diminishes:减少
+- asymptotic unbiasedness:渐进无偏性
+- convergence:收敛
+- diminishes:减少
+- misnomer:用词不当
+- negative log-likelihood:负似然对数
+- i.i.d:独立同分布
+- criterion:标准
+- ad hoc:特别制定
+- pertaining to:有关
+- ill posed:不适定问题
+- prohibitively:望而却步,禁止地
+- foolhardy:蛮干
+- unprincipled:无原则
+- Prior to the advent of:在深入...之前
+- scalable:可扩展
+- a fairly simple recipe:一个相当简单的配方
+
+
+  17-12-28
+  ========
+
+- fine-tuning:微调
+- subsequently:后来
+
+
+  17-12-29
+  ========
+
+- closed-form solution:封闭式解决方案
+- drawback:缺陷
+- mitigate:减轻
+- renaissance:复兴,再生
+
+
+  17-12-30
+  ========
+
+- discriminative:有辨别力的
+- piecewise-constant function:分段常熟函数
+- nonoverlapping:不重叠
+- sophisticated:复杂的
+- overall structure:整体结构
+- representation space表示空间
+- disentangle:解开
+- hypothesize:推测
+- entangle: 使纠缠，缠住;使卷入，使陷入，连累;使混乱 
+- explanatory factors:解释性因素
+- generic priors:通用的先验
+- If this is not the case:如果不是这样的话
+- centroids:重心
+
+
+  17-12-31
+  ========
+
+- exceedingly:非常
+- be biased toward:偏向于
+- exclusively:唯一的,专门的
+- scale to :扩展到
+- resemble:类似,与..相像
+- substantially:本质的,相当多的
+- embody:体现
+- mild assumptions:温和的假设
+- exponential gain:指数增益
+- spherical:球形
+- surmount:超越
+- analog television:模拟电视
+- trace out:追踪
+- dim:使...暗
+- aspirations:愿望,抱负
+- bear fruit:见效,出结果
+- practical methodology:实用的方法
+- practitioner:从业者
+- quintessential:典型
+- padded where necessary:用在必要的地方
+- penultimate:倒数第二
+
+
+  18-01-03
+  ========
+
+- quintessential:典型
+- practitioners:从业者
+- stepping stone:垫脚石，跳板
+- acyclic:非循环的
+- analogous:相似的
+- advent:出现,到来
+- deterministic mappings:确定性映射
+- confront:面对
+
+
+  18-01-05
+  ========
+
+- penultimate:倒数第二
+
+
+  18-01-07
+  ========
+
+- elusive:难以捉摸的
+- have been missing for: ...缺少...
+- predicate:谓词
+- predicate argument triples :谓词参数三元组
+- inevitably: 难免;不可避免地，自然而然地;必然地，无疑的;终于只好 
+- isolate:隔离
+- hold promise for :有助于
+- readily:容易
+- paraphrase:意译
+- lexical generalisation: 词汇的概括 
+- sth1 comes naturally to sth2 :sth2中自然出现的sth1
+- syntactic analysis:句法分析
+- causality:因果关系
+- coreference resolution:指代消解.
+- permute:置换
+- paradigm:范例
+- exclusive:独占的,仅仅
+- pipeline:管道
+- a pipeline of :一个...的通道(方法)
+- predicates:谓词
+- a fully qualified:完全合格的
+- phase:阶段
+- parsing phase:分析阶段
+- clarity: 清晰度;明确;透明;清楚，明晰 
+- argument numbering:参数编号
+- only compare like with like:只和同类做比较
+- For reasons of clarity,:为了简单起见
+- slight:轻微的
+- privilege:特权; 给与…特权，特免 
+- delimiter:分隔符
+- propagate dependencies :传播依赖
+- circumvent:规避
+- passages:通道
+- ultimately:最终
+- scalable: 可攀登的，可升级的 
+
+
+  18-01-08
+  ========
+
+- affine:仿射
+- convergence point:收敛点
+- suffice:足够;有能力;满足…的需要;使满足
+- refinement:精炼，提纯，净化;改良品;细微的改良，极致
+- ambiance: 周围环境;气氛，布景
+- saturate:饱和
+- undermine:破坏
+- boundedness:局限性	
+- median:中位数
+
+
+  18-01-09
+  ========
+
+- infrastructure:基础建设
+- make a big comeback:东山再起
+- central building block:中心模块
+- pedestrain:行人
+- small patches of image:小块的图像
+- cast:投射..,转换为...
+- stray:走丢
+- peers:同伴们
+- undoes:抵消
+
+
+  18-01-10
+  ========
+
+- Analytically:分析地，分析法地
+- noticeably:明显地
+- vanish:消失
+
+
+  18-01-11
+  ========
+
+- Excessively parametrized:过度参数化
+- Excessively:过度
+- cortex:皮质
+- lateral inhibiton:侧抑制
+- differentiable:可微的
+- entrenched:根深蒂固
+- incrementally:逐渐地
+- multivariate:多变量
+- impose:强加; 征税; 以…欺骗; 利用; 欺骗; 施加影响
+- definitive:明确定义的;决定性的.
+- invalidate:使无效;使作废;证明…错误;使站不住脚
+- is subject to:受支配，从属于; 有…倾向的
+- theoretically pleasing justiﬁcations :理论上更令人满意的理由
+- disregard:不理会,漠视
+
+
+  18-01-12
+  ========
+
+- Sememes:义位
+- i.e.:也就是
+- Hence:于是
+- effectiveness and efficiency:有效性和效率
+- feasibility:可行性
+- conduct case studies:进行案例研究
+
+
+  18-01-13
+  ========
+
+- second-order eﬀects:二阶效应
+- drawback:退税,缺陷
+- redundancy:冗余
+- catastrophic forgetting:灾难性遗忘
+- piecewise:分段
+- hyperbolic:夸张的
+- Hyperbolic Tangent:双曲正切
+- ...,in the sense that... : ..., 从这方面来说...
+- identity function:恒等方程
+- resemble:类似于
+- impractical:不切实际的
+- counterintuitive:有悖常理,违反直觉的
+
+
+  18-01-14
+  ========
+
+- squashing:压扁,压缩
+- topological:拓扑
+- suffice:足够;有能力
+- shallow networks:浅层网路
+- polynomial:多项式
+- analogous:相似的
+- diversity:多样的
+- generality:概括
+- calculus:微积分
+- tuple of indices:索引的元组
+- proportional:成比例的
+- associated:相关的
+- in the order:按顺序
+- without regard to..:不考虑...
+- generalized form:广义的形式
+- subsumes:
+
+
+
+
